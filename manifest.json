@@ -1,0 +1,17 @@
+{
+  "name": "Auto Rally - Indian Rickshaw Racing",
+  "short_name": "Auto Rally",
+  "description": "Retro pseudo-3D auto-rickshaw racing game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
